@@ -1,0 +1,228 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#mainheader
+{
+    /* background-color: bisque;  */
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+    
+
+.container1{
+display: flex;
+align-items: center;
+justify-content: space-around;
+/* background-color: bisque; */
+}
+.intuit{
+    display: flex;
+gap: 2rem;
+margin-left: 20px;
+/* margin-bottom: 3px; */
+}
+.quickbooks{
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+
+}
+.qb{
+    width: 15px;
+    
+
+   
+}
+.mail{
+  width: 15px;
+  height: 10px;  
+}
+.mailchimp{
+    display: flex;
+    font-size: 10px;
+    align-items: center;
+}
+.container1{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    justify-content: space-evenly;
+    color: black;
+    font-weight: solid;
+    /* margin-right: 260px;
+    margin-top: .15px; */
+    /* padding-bottom: 30px; */
+}
+.en{
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+}
+.ul li{
+    display: flex; 
+    list-style-type: none;
+    float: left;
+    padding: .5rem;
+    margin: .3rem; 
+}
+.login{
+    background-color: white;
+    border: 1px solid black;
+    padding: .8rem 1.2rem;
+    border-radius: 2rem;
+    color: black;
+    font-weight:bold ;
+   margin-left: 14px;
+
+}
+.signup{
+    padding: .8rem 1.4rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+    background-color:rgb(255,224,27);
+    margin-right: 15px;
+    color: black;
+    font-weight: bold;
+    /* display: flex;
+    gap: 2rem; */
+}
+.btns{
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 1.5rem;
+    padding: 1.5rem 2rem;
+    width: 475px;
+    height: 70px;
+    border-radius: 3rem;
+    margin-left: 30%
+
+}
+.btns button{
+    background-color: black;
+    color: white;
+    padding:.8rem 1rem ;
+    border-radius: 2rem;
+    margin-right: 40px;
+
+}
+#content{
+    background-color:rgb(246,246,244);
+    margin-top: 30px;
+    display: flex;
+    align-items:center ;
+}
+.container2{
+    padding: 10rem 5rem;
+    /* display: flex; */
+}
+.container2 h1{
+font-size: 40px;
+/* text-decoration: underline; */
+}
+.container2 span{
+    text-decoration: underline;
+    text-decoration-color:rgb(255,224,27);
+    text-decoration-thickness: 8px;
+
+
+    /* color: blue; */
+}
+.p1{
+    font-size: 20px;
+    width: 600px;
+}
+.container2 a{
+    color: black;
+}
+.ul2 ul{
+display: flex;
+align-items: center;
+gap: 2rem;
+margin-top: 10px;
+margin-bottom: 30px;
+
+}
+.ul2 li{
+   list-style-type: none;
+   margin-top: 20px;
+
+}
+.cardb{
+    display: flex;
+    display: inline;
+    /* gap: 2rem; */
+}
+.cardd{
+ margin-left: 650px;
+ margin-top: 9px;
+ dis
+}
+.usd{
+    margin-left:350px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.card{
+    margin-left: 40px;
+    border: 1px solid grey;
+    width: 400px;
+    padding: 1rem 1rem;
+    background-color: rgb(255,255,255);
+}
+.buynow{
+    background-color: rgb(255,224,27);
+    border: 1px solid black;
+    padding: 1rem 9rem;
+    border-radius: 3rem;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.contact{
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 350px;
+    height: 40px;
+    padding: 1rem 2rem;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card h1{
+    margin-bottom: 15px;
+    color: rgb(0,0,0);
+}
+.pp{
+    color: rgb(64,59,59);
+}
+.five{
+    font-size: 30px;
+}
+.pd{
+    font-size: 25px;
+    font-weight: bold;
+}
+.card span{
+    text-decoration: line-through;
+    font-size: 20px;
+    color: grey;
+}
+.pt{
+    display: flex;
+    align-items: center;
+    margin-top: 2px;
+    margin-bottom: 7px;
+    /* justify-content: center; */
+}
+.for{
+    color: black;
+}
+
+
