@@ -225,4 +225,8 @@ margin-bottom: 30px;
     color: black;
 }
 
-
+.testing h3{
+    background-color: blue;
+    padding: 1rem;
+    color: black;
+}
